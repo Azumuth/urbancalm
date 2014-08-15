@@ -1,0 +1,69 @@
+/* Custom Css Page */
+
+/*Waiting for page to fully render with JQuery:*/
+body {display: none;}
+
+/*Nav section*/
+#navee{list-style:none; margin:0; padding:0; text-align:center;}
+#navee li{display:inline;}
+#navee a {display:inline-block; padding:10px;}
+.cent-fix a {color:#8D8887; font-weight: 100;}
+nav#navee ul#nav-list li.cent-fix a {padding-right:5%; padding-left:5%; border-right: #a09d9d 2px solid; font-size: 13px;}
+.nav-height {height: 30px; line-height: .01;}
+
+/*Slider Details*/
+.rounded{border-radius: 6px; margin-bottom: 2%;}
+
+/*Logo Section*/
+section#logo div#logo.row {margin-bottom: 0px;}
+
+/*Fix bootstrap padding and alignment*/
+nav#navee ul#nav-list {margin-bottom: 2px; padding-left: 0px;}
+
+/*Google Fonts*/
+h1, h2, h3, h4, h5, h6 {font-family: 'Oswald', sans-serif;}
+p, div {font-family: sans-serif; color: #605c5b; font-weight: 100;}
+
+/* Vertical Offsets */
+.voffset  { margin-top: 15px;}
+.voffset1 { margin-top: 20px;}
+.voffset2 { margin-top: 40px;}
+.voffset3 { margin-top: 60px;}
+
+/*About page*/
+#about{border-top: solid 1px;
+		padding-bottom: 5em;
+		padding-top: 30px;}
+
+#owner{border-top: solid 1px;
+		padding-top: 30px;
+		padding-bottom: 30px;}
+
+#owner img{width:300px;}
+
+#spiritual{border-top: solid 1px;
+			padding-top: 30px;
+}
+
+/*Events page*/
+
+#events{border-top: solid 1px;
+		padding-top: 30px;}
+
+#events img{width: 200px;}
+
+/*Contact page*/
+
+#header{border-bottom: solid 1px;}
+
+#details{padding-top:30px;}
+
+#map{padding-top:30px;}
+
+#contact-form{border-top: solid 1px;
+				padding-top: 30px}
+
+
+
+#Contact{border-top: solid 1px;}
+
